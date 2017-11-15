@@ -4,4 +4,4 @@ In this Python Script, I attempt to use a graphing "turtle" to plot some basic b
 
 The functions written in the script guide the turtle movements to draw all the key elements of this chart.
 
-##Enjoy graphing :)
+## Enjoy graphing :)
